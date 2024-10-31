@@ -294,7 +294,7 @@ img{
 
 .hero__title {
     margin-top: 0px;
-    background-color: #e9ec0dfa;
+    background-color: rgb(254,230,2);
     color: rgb(0, 0, 0);
     font-size: 36px; /* Defina o tamanho da fonte conforme necessário */
     font-weight: 600;
