@@ -175,7 +175,7 @@ img{
 
 }
 .header__nav a:hover {
-    color: rgb(214, 142, 7);
+    color: #ffa506;
 
 
 }
@@ -362,7 +362,7 @@ img{
 }
 
 .hero__btn:hover {
-    background-color: #7b3773;
+    background-color: #ffa506;;
 }
 
 .people-cards{
@@ -444,7 +444,7 @@ img{
     background-color: #929da5;
 }
 .button-primary{
-    background-color: #7b3773;
+    background-color: #ffa506;;
     color: white;
 }
 .button-secundary{
@@ -455,7 +455,7 @@ img{
 
 
 .last-articles__title{
-    background-color:  rgb(214, 142, 7);
+    background-color:  #ffa506;
     padding: 5px 0;
 }
 
