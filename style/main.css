@@ -303,6 +303,7 @@ img{
     border-radius: 5px; /* Ajuste o valor conforme desejado */
     position: relative; /* Para posicionar os efeitos de luz */
     overflow: hidden; /* Para esconder o overflow dos elementos filhos */
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   .hero__title::before {
