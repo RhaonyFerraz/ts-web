@@ -6,12 +6,12 @@ if (isset($_POST['email']) && !empty($_POST['email'])) {
     $email = addslashes($_POST['email']);
     $mensagem = addslashes($_POST['message']);
 
-    $to = "rhaonyferraz@hotmail.com";
+    $to = "tecserv@tecserv.eng.br";
     $subject = "Profile";
     $body = "Nome: " . $nome . "\r\n" .
             "Email: " . $email . "\r\n" .
             "Mensagem: " . $mensagem;
-    $header = "From: rhaonyferraz@gmail.com" . "\r\n" .
+    $header = "From: tecserv@tecserv.eng.br" . "\r\n" .
               "Reply-To: " . $email . "\r\n" .
               "X-Mailer: PHP/" . phpversion();
 
